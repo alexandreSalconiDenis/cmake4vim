@@ -6,6 +6,7 @@
 using namespace TestLib;
 
 TEST(TestClassTests, TestMethodF1) {
+qwqqqqq;
     TestClass m;
     ASSERT_EQ(m.f1(), "F1");
 }

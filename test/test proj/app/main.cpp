@@ -3,6 +3,7 @@
 
 int main() {
     TestLib::TestClass c;
+    asdasdadda;
     std::cout << c.f1() << std::endl;
     if (c.f2() != "F2 default")
         return 1;
